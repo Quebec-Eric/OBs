@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "f2d7a371b7b5ccea",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd56b1c85b0606b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72b154d10d1aaf8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a1f235e87ccceeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3/Inicio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c36776f6c68c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.1/BaseDados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8b5baec2a10db3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.2/PreProcessamento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35b1cc8eca748684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.3/Modelos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b297dfc806f7015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.4/ComoEsta A base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a82a0bec1e284ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.1/BaseDados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fabdc25a5a3fdb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.2/PreProcessamento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd85731703f91450",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa5e46a4bbca2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25c34801f9e9374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdb1cbba4f1da6d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a402cd7c23e434f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76b2b813735c522b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b643919e47a05181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95aecde256607014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.2/PreProcessamento.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d8f787308509338",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.2/PreProcessamento.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec1c8bbfafe6cc04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e35466d31c99da1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pesquisa/Artigo/Metodologia/3.2/PreProcessamento.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6fabdc25a5a3fdb2",
+  "lastOpenFiles": [
+    "Pesquisa/Artigo/Metodologia/3/Inicio.md",
+    "Pesquisa/Artigo/Metodologia/3.5/Untitled.md",
+    "Pesquisa/Artigo/Metodologia/3.4/ComoEsta A base.md",
+    "Pesquisa/Artigo/Metodologia/3.3/Modelos.md",
+    "Pesquisa/Artigo/Metodologia/3.2/PreProcessamento.md",
+    "Pesquisa/Artigo/Metodologia/3.1/motivo.md",
+    "Pesquisa/Artigo/Metodologia/3.1/BaseDados.md",
+    "Pesquisa/Artigo/Metodologia/3.2/Untitled",
+    "Pesquisa/Artigo/Metodologia/3.5",
+    "Pesquisa/Artigo/Metodologia/3.4",
+    "Pesquisa/Artigo/Metodologia/3.3",
+    "Pesquisa/Artigo/Metodologia/3.2",
+    "Pesquisa/Artigo/Metodologia/3",
+    "Pesquisa/Artigo/Metodologia/3.1",
+    "Pesquisa/Artigo/Metodologia",
+    "Vida/Cotidiano",
+    "Pesquisa/Codigo"
+  ]
+}
