@@ -1,0 +1,6 @@
+Para alcançar o objetivo do trabalho que se consiste em  agrupar indivíduos com semelhanças entre si de maneira supervisionada, foram utilizados diversos algoritmos.
+O k-means, por exemplo, é um algoritmo de agrupamento não supervisionado que é utilizado para dividir dados em grupos. É muito fácil de ser implementado, pois só é necessário informar a quantidade de centróides e ele gera os grupos. Dessa forma, por ser uma opção fácil e de baixo custo, ele foi uma escolha importante para o nosso trabalho.
+
+Por outro lado, o SOM é um algoritmo baseado em uma rede neural e é considerado a grande aposta deste trabalho. Apesar de ser mais pesado e demorado, ele consegue criar grupos muito mais precisos e com muitas informações relevantes. Sua ideia de juntar vizinhos permite criar grupos mais coesos, tornando-se uma excelente opção para a classificação.
+
+Por fim, o DBSCAN baseia-se na densidade dos pontos para encontrar regiões com alta densidade de pontos. Se dois pontos estão próximos um do outro, eles pertencem ao mesmo cluster, evitando cálculos desnecessários. Embora o DBSCAN não obtenha bons resultados em todos os casos, se os dados forem adequados, ele pode produzir resultados satisfatórios.

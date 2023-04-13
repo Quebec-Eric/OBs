@@ -1,0 +1,3 @@
+Com o objetivo de obter informações da base de crimes  [2] foram realizados os seguintes pre processamentos . 
+O primeiro passo foi a remoção dos atributos que não eram relevantes para o problema em questão, tais como 'ID', 'Case Number', 'IUCR', 'Ward', 'Community Area', 'FBI Code', 'X Coordinate', 'Y Coordinate', 'Year', 'Updated On', 'Location', 'Date', 'District', 'Beat', e 'Arrest'. 
+Em seguida, foram identificadas e eliminadas as instâncias inconsistentes, resultando em uma base com 172.600 instâncias e 8 atributos relevantes.

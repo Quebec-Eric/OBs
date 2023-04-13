@@ -1,4 +1,4 @@
-Com o intuito de extrair informações sobre a localização dos criminosos, utilizamos três bases de dados disponíveis no site Chicago Data Portal: a base Sex Offenders, a base de Crimes e a base de Parks.
+Com o intuito de extrair informações sobre a localização dos criminosos, utilizamos três bases de dados disponíveis no sitChicago Data Portal: a base Sex Offenders, a base de Crimes e a base de Parks.
 
 A base Sex Offenders é uma lista de agressores sexuais que residem em Chicago. Porém, por questões de privacidade, os endereços são exibidos em níveis de blocos para não especificar a localização exata dos mesmos. Essa base é atualizada diariamente e continha, no momento da realização deste trabalho, 2.775 linhas com 10 atributos prévios, conforme descrito na Tabela [1].
 
